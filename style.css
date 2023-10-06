@@ -1,4 +1,7 @@
 .title {
   color: white;
   text-align: center;
+  border: 10px;
+  border-color: black;
+  background-color; darkred;
 }
