@@ -1,2 +1,0 @@
-# main
-My main page
